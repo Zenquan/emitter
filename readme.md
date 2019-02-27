@@ -66,5 +66,5 @@ emitter.setMaxListeners(num)
 - num： 最大数量的监听事件数
 
 ### TODO
-- [] 单元测试
-- [] 覆盖率
+- [ ] 单元测试
+- [ ] 覆盖率
